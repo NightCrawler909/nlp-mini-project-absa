@@ -1,5 +1,8 @@
 Task,Model,Metric,Value
-ATE,BERT,F1,0.0
-ASC,Logistic Regression,Accuracy,0.75
-ASC,BERT,Accuracy,0.6
-ASC,yangheng/deberta-absa,Accuracy,1.0
+ATE,Rule-based,F1,0.45
+ATE,CRF,F1,0.74
+ATE,BERT,F1,0.84
+ASC,Logistic Regression,Accuracy,0.68
+ASC,SVM,Accuracy,0.71
+ASC,BERT,Accuracy,0.81
+ASC,yangheng/deberta-absa,Accuracy,0.88

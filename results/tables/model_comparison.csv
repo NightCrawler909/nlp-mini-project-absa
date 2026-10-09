@@ -1,0 +1,5 @@
+Task,Model,Metric,Value
+ATE,BERT,F1,0.0
+ASC,Logistic Regression,Accuracy,0.75
+ASC,BERT,Accuracy,0.6
+ASC,yangheng/deberta-absa,Accuracy,1.0
